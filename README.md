@@ -1,3 +1,3 @@
-# MERN-Stack Infrastructure
+# Dr. Daniel Truong DO
 
-Clone this repo to provide the starter code for a comprehensive MERN-Stack project including token-based authentication.
+Website design for client Dr. Daniel Truong DO
